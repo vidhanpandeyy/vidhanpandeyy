@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Vidhan Pandey</h1>
-<h3 align="center"> I'm curious  about  technologies  and coding</h3>
+<h3 align="center"> I'm curious  about   new technologies  and  love coding</h3>
 
 
 
 
-- 💬 Ask me about *MERN Stack,C++*
+- 💬 Ask me about *MERN Stack,C++,Data Analytics and Cloud Computing*
 
 - 📫 How to reach me *onlyvidhan3@gmail.com*
 
