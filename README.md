@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vidhan Pandey</h1>
-<h3 align="center">Passionate about new tech</h3>
+<h3 align="center"> I'm curious  about  technologies  and coding</h3>
 
 
 
