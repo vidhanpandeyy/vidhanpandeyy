@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about *MERN Stack,C++,Javascript,OOPS,DBMS,MySQL and Cloud Computing*
+- 💬 Ask me about *MERN Stack, C++, Javascript, OOPS, DBMS, MySQL and Cloud Computing*
 
 - 📫 How to reach me *onlyvidhan3@gmail.com*
 
